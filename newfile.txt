@@ -1,0 +1,8 @@
+I create this file using python.Now this text added using append (a) in python instated of (w)
+adding new line to see how '(\n)' scape works.
+adding line 2 to see how `(
+)` scape works.
+adding line 3 to see how (`
+`) scape works.
+adding line 4 to see how (`\n\`) scape works.
+adding line 5 to see how (\n) scape works.
